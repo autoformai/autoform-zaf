@@ -1,0 +1,12 @@
+{
+  "name": "Autoform",
+  "author": {
+    "name": "Andrew Homeyer",
+    "email": "andrew@autoform.ai",
+    "url": "https://autoform.ai"
+  },
+  "defaultLocale": "en",
+  "private": false,
+  "version": "1.0.0",
+  "frameworkVersion": "2.0"
+}
