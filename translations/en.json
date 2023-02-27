@@ -1,8 +1,8 @@
 {
   "app": {
-    "name": "Autoform.ai",
-    "short_description": "Autoform.ai fills out any customer form or spreadsheet automatically with AI",
-    "long_description": "Autoform.ai automates repetative form and spreadsheet tasks. As soon as a customer sends a form, Autoform will complete it and send it to you for review as a private note in your conversation.\n\n *95% faster turnaround*\nOur AI data entry can accelerate your deals. Whether it's RFP's, Security Questionnaires, or any other type of routine forms.\n\n*Accurate*\nAutoform pulls data from knowledge bases or past forms you've filled out in order to accurately answer new forms.\n\nAlways Learning\nWith every form you send, autoform.ai pulls in that data to increase our knowledge base for future forms.",
-    "installation_instructions": "Add to Zendesk from https://autoform.ai"
+    "name": "Autoform",
+    "short_description": "Fill out any customer form or spreadsheet automatically with AI",
+    "long_description": "#Automate repetative form and spreadsheet tasks\n\nAs soon as a customer sends a form, Autoform will complete it and send it to you for review as a private note in your conversation.\n\n ###95% faster turnaround\nOur AI data entry can accelerate your deals. Whether it's RFP's, Security Questionnaires, or any other type of routine forms.\n\n###Accurate\nAutoform pulls data from knowledge bases or past forms you've filled out in order to accurately answer new forms.\n\n###Always Learning\nWith every form you send, autoform.ai pulls in that data to increase our knowledge base for future forms.\n\n*Sign up for a free trial at [Autoform.ai](https://autoform.ai)*",
+    "installation_instructions": "Add to Zendesk from [https://autoform.ai](https://autoform.ai).\n\nAutoform will automatically reply with a private note with the completed form when it detects an attachment it can process."
   }
 }
